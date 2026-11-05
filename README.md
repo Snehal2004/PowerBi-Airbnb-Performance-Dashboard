@@ -38,7 +38,7 @@ The dashboard provides insights into listing growth, city market share, property
 
 ### 1. New Listings — Airbnb Growth Analysis
 
-![New Listings Dashboard](./Overview.png)
+![New Listings Dashboard](Overview.PNG)
 
 This dashboard visualizes Airbnb's listing growth over time from 2008 to 2020, categorized by different property types.
 
@@ -52,7 +52,7 @@ This dashboard visualizes Airbnb's listing growth over time from 2008 to 2020, c
 
 ### 2. Market Share by City & Ratings Analysis
 
-![Market Share and Ratings Dashboard](./Ratings.png)
+![Market Share and Ratings Dashboard](Ratings.PNG)
 
 This dashboard analyzes Airbnb's market share across cities, average prices by property type, and customer ratings.
 
